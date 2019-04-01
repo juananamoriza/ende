@@ -3,7 +3,7 @@ drop table tvendedor;
 create table tvendedor
 (
 COD_VEN		CHAR(3) NOT NULL,
-NOM_VEN		CHAR(25) NOT NULL,
+NOM_VEN		CHAR(30) NOT NULL,
 PORCEN		NUMBER(4),
 TITULACION	VARCHAR2(10),
 SUPERIOR	CHAR(3)
