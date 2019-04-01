@@ -22,3 +22,5 @@ insert into tprovincia values
 insert into tprovincia values
 ('TO', 'TOLEDO', 2000);
 COMMIT;
+
+-- Aquí se podrían añadir más tuplas
