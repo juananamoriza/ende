@@ -1,5 +1,5 @@
 drop table tvendedor;
-
+-- ahora se crea la tabla
 create table tvendedor
 (
 COD_VEN		CHAR(3) NOT NULL,
