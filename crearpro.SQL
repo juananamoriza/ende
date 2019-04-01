@@ -1,7 +1,7 @@
 drop table tprovincia;
 create table tprovincia
 (
-CODIGO	char(2) NOT NULL,
+CODIGO	char(2) NOT NULL,		-- Este campo podría ser la clave primaria
 NOMBRE		varchar2(25) NOT NULL,
 TOTAL_COMPRA	number(10) NOT NULL)
 /
