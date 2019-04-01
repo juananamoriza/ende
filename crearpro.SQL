@@ -3,7 +3,7 @@ create table tprovincia
 (
 CODIGO	char(2) NOT NULL,		-- Este campo podría ser la clave primaria
 NOMBRE		varchar2(25) NOT NULL,  -- Este campo podría ser clave alternativa
-TOTAL_COMPRA	number(10) NOT NULL)
+TOTAL_COMPRA	number(10) NOT NULL)	-- Este campo es numérico
 /
 insert into tprovincia values
 ('HU', 'HUESCA', 1000000);
