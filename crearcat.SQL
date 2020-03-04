@@ -1,4 +1,4 @@
-drop table tcategoria;
+
 create table tcategoria
 (
 CATEGORIA	NUMBER(2),
