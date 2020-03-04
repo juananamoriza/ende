@@ -1,3 +1,4 @@
+--primero se borra la tabla
 drop table tvendedor;
 -- ahora se crea la tabla
 create table tvendedor
