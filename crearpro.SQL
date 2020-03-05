@@ -24,3 +24,5 @@ insert into tprovincia values
 COMMIT;
 
 -- Aquí se podrían añadir más tuplas
+
+-- Asi es, si se puede (Alejandro)
