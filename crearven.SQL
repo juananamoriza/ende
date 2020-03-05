@@ -1,3 +1,4 @@
+--primero se borra la tabla
 drop table tvendedor;
 -- ahora se crea la tabla
 create table tvendedor
@@ -11,9 +12,9 @@ SUPERIOR	CHAR(3)
 /
 
 insert into tvendedor values
-('002','PEREZ DIRAC A.', 5, 'ELEMENTAL', '001');
+('002','UwU Garcia.', 5, 'ELEMENTAL', '001');
 insert into tvendedor values
-('003', 'SOTO LOIS F.', 10, 'MEDIA','001');
+('003', 'OwO Lopez F.', 10, 'MEDIA','001');
 insert into tvendedor values
 ('004', 'PRADOS GOMEZ R.', 7, 'ELEMENTAL', '003');
 insert into tvendedor values
