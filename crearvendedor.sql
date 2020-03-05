@@ -1,3 +1,4 @@
+-- Comentario de raul
 drop table tvendedor;
 
 create table tvendedor
