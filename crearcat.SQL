@@ -1,7 +1,7 @@
 --CAMBIANDO ALGO fasdfasd
 drop table tcategoria;
 create table tcategoria
-
+--Hola K Ase
 (
 CATEGORIA	NUMBER(9),
 DESDE	NUMBER(9),
