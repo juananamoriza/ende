@@ -1,6 +1,7 @@
 --cambio
 drop table tcategoria;
 create table tcategoria
+
 (
 CATEGORIA	NUMBER(2),
 DESDE	NUMBER(9),
