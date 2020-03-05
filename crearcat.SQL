@@ -3,7 +3,7 @@ drop table tcategoria;
 create table tcategoria
 
 (
-CATEGORIA	NUMBER(2),
+CATEGORIA	NUMBER(9),
 DESDE	NUMBER(9),
 HASTA	NUMBER(9))
 /
