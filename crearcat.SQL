@@ -1,8 +1,9 @@
 --cambio
 drop table tcategoria;
 create table tcategoria
+
 (
-CATEGORIA	NUMBER(2),
+CATEGORIA	NUMBER(9),
 DESDE	NUMBER(9),
 HASTA	NUMBER(9))
 /
@@ -33,6 +34,7 @@ INSERT INTO TCATEGORIA VALUES
 INSERT INTO TCATEGORIA VALUES
 (13,1200001,1300000);
 
+-- Comentario realizado por Ander
 
 
 
