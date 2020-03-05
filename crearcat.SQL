@@ -1,4 +1,4 @@
---cambio
+--CAMBIANDO ALGO
 drop table tcategoria;
 create table tcategoria
 (
